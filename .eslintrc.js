@@ -16,7 +16,9 @@ module.exports = {
 
     rules: {
         'no-console': 'off',
-        'no-debugger': 'off'
+        'no-debugger': 'off',
+        'space-before-function-paren': 0,
+        "indent": ["off", 2]
     },
 
     extends: [
@@ -25,7 +27,7 @@ module.exports = {
     ],
 
     'extends': [
-      'plugin:vue/essential',
-      '@vue/standard'
+        'plugin:vue/essential',
+        '@vue/standard'
     ]
 }
