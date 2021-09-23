@@ -245,8 +245,8 @@ export default {
         return this.$message.error('获取父级分类数据失败！')
       }
       this.parentCateList = res.data
-      console.log('!!!!!!!!!', this.parentCateList)
-      console.log('2222222222222', this.selectedKeys)
+      console.log(this.parentCateList)
+      console.log(this.selectedKeys)
     },
     // 选择项发生变化触发这个函数
     parentCateChanged() {
