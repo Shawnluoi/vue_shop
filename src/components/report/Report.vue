@@ -63,6 +63,7 @@ export default {
       return this.$message.error('获取折线图数据失败！')
     }
     // 4.指定图表的配置项和数据
+    // _：合并
     const result = _.merge(res.data, this.options)
     // 展示数据
     myChart.setOption(result)
