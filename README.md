@@ -3,7 +3,10 @@
 ![Image](https://github.com/Shawnluoi/vue_shop/blob/main/sourceMaterial/img-folder/p3.png)
 ![Image](https://github.com/Shawnluoi/vue_shop/blob/main/sourceMaterial/img-folder/p4.png)
 
-
+前端技术栈：
+Vue、Vue-router、ElementUI、Axios、Echarts
+后端技术栈：
+Node.js、Express、Jwt、Mysql、sequelize
 # vue_shop
 
 ## Project setup
