@@ -1,3 +1,9 @@
+![Image](https://github.com/Shawnluoi/vue_shop/blob/main/sourceMaterial/img-folder/p1.png)
+![Image](https://github.com/Shawnluoi/vue_shop/blob/main/sourceMaterial/img-folder/p2.png)
+![Image](https://github.com/Shawnluoi/vue_shop/blob/main/sourceMaterial/img-folder/p3.png)
+![Image](https://github.com/Shawnluoi/vue_shop/blob/main/sourceMaterial/img-folder/p4.png)
+
+
 # vue_shop
 
 ## Project setup
